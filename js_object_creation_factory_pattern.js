@@ -1,4 +1,5 @@
 //this file is changed simply for github test
+//something something contact
 
 var peopleFactory = function(name, age, state){
 	var temp = {};
